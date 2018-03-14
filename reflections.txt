@@ -1,0 +1,24 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned? learned the following:
+  create a basic HTML structure and the format text in the following:
+  	headers
+  	paragaphs
+  	italics
+  	strikethrough
+  	superscripts
+  	horizontal line breaks
+  	lists (ordered and unordered)
+  learned to put images, hyperlinks
+  turn a mock into an website
+
+  * What has been easy?
+  	Formatting texts
+  * What has been difficult?
+  	Trees and Parent/Child relations
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+  Looking up and doing things along the way. Researching
+
+---
+
+Your response goes here!
